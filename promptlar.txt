@@ -1,0 +1,37 @@
+Web Site Kodları:
+prompt1:
+Bir frontend web geliştiricisi olmanı istiyorum. Projem için  HTML, CSS ve JavaScript kullanarak bir web sitesi tasarlamanı ve kodlamanı istiyorum.Bu web sitesi farklı cihaz ve ekran boyutlarına duyarlı olmalı.HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermeni istiyorum. Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de ekle. Yazdığın kodların hiçbirine açıklama yapma.  Eğer her şeyi anladıysan bana anladım diye bir geri dönüş sağla daha sonrasında sana site içeriğinden bahsedeceğim. 
+
+prompt2:
+web sitesi bir zamanda yolculukla ilgili galeri sitesi olacak ve burda zamanda yolculuk hakkında çeşitli bilgiler ve resimler sergilemek istiyorum. Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklinde. Header kısmında bir banner resmi kullanacağım , ayrıca header ve footer bölümlerinin sol taraflarına birer logo koymak istiyorum . gezinme menüsü içeriğini de şunlardan oluşturmanı istiyorum : Geçmiş , Günümüz , Gelecek ve Zaman Makinesi şeklinde bir nav menüsü yap. Sayfa içeriğinde her başlık için kısa bir açıklama ve 1 görselden oluşacak resimler koyacağım , bu resimlerin kırpılmamasını ve üzerine geldiğinde bir geçiş efekti koymanı istiyorum. Yapabilir misin?
+
+Prompt3:
+görsellerin boyutu 500x600 olacak şekilde ayarlayıp bir çerçeve ekler misin
+
+Prompt4:
+gallery içindeki resimleri siteye göre ortalar mısın
+
+Metin Propmtları:
+
+Prompt1:karadelikler sayesinde zaman yolculuğu hakkında kısa bir yazı
+
+Prompt2:nükleer füzyonlardan faydalanarak kara delik oluşturan bir zaman makinesini tanımlar mısın
+
+
+Görsel Promptlar:
+Prompt1:
+insanlığın ve evrenin başlangıcından başlayan geçmiş zamanları bir akış şeması şeklinde anlatan bir görsel
+
+Prompt2:
+günümüz teknolojilerini , insanlarını , arabalarını ve binaları anlatan teknolojik olarak aşırıya kaçılmamış bir görsel
+
+Prompt3:
+insanların uzayı keşfettiği ve karadelikler oluşturarak çeşitli zamanlar arasında yolculuk yaptığı, yapay zeka ve robotikte aşırı geliştiği ,  geleceğin dünyasını anlatan bir görsel
+
+Prompt4:
+bu karadelikler sayesinde yapılan zaman yolculuğunun nasıl yapıldığını anlatan ve zaman makinesi içeren bir görsel
+
+Prompt5:
+üzerinde saatler , nükleer füzyon haznesi olan zaman makinesi logosu tasarlar mısın
+
+

@@ -1,0 +1,79 @@
+/* Genel Stil */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header ve Footer Stili */
+header,
+footer {
+    background-color: #000921;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Logo Stili */
+.logo img {
+    height: 100px;
+}
+
+/* Navigation Menu Stili */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Ana İçerik Stili */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+/* Galeri Stili */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Galeri Resimleri Stili */
+.gallery img {
+    width: 500px;
+    height: 600px;
+    border: 5px solid #fff;
+    /* Çerçeve ekledik */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Gölge ekledik */
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.gallery img:hover {
+    transform: scale(1.1);
+}
+
+/* Footer Stili */
+footer {
+    background-color: #000921;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
